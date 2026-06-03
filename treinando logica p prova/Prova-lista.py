@@ -11,3 +11,4 @@ for i in range(4,40 + 2,2):
 #nova_lista= sorted(lista, reverse= False)
 print(lista)
 print(nova_lista)
+valores= list() #fazer
